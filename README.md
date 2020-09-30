@@ -1,2 +1,1 @@
-# mibbrowse
-POC para uso da ferramenta MIB Browse da empresa IReasoning
+# Lab para uso da ferramenta MIB Browse da empresa IReasoning
